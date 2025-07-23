@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋, I'm Neeraj Kumar</h1>
-- 🔭 I’m currently working on **My Portfolio :)**
+# 💫 About Me:
+🔭 I’m currently working on My first Portfolio<br>🌱 I’m currently learning React and Nextjs<br>💬 Ask me about my university<br>⚡ Fun fact I am introvert
 
-- 🌱 I’m currently learning **React,Nextjs**
 
-- 💬 Ask me about **my university**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neeraj-kumar1001) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NeerajKumar1001&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=NeerajKumar1001&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajKumar1001&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 - 📫 How to reach me **kumarn74858@gmail.com**
 
