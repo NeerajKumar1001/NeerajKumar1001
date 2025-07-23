@@ -3,6 +3,7 @@
 🔭 I’m currently working on My first Portfolio<br>
 🌱 I’m currently learning React and Nextjs<br>
 💬 Ask me about my university<br>
+📫 How to reach me **kumarn74858@gmail.com**
 ⚡ Fun fact I am introvert
 
 
@@ -18,7 +19,7 @@
 
 
 
-- 📫 How to reach me **kumarn74858@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
