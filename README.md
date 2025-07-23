@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Neeraj Kumar</h1>
- Welcome to my Github Landing page <br>
+
+ Welcome to my Github Landing page <br><br>
 🔭 I’m currently working on My first Portfolio<br>
 🌱 I’m currently learning React and Nextjs<br>
 💬 Ask me about my university<br>
-📫 How to reach me **kumarn74858@gmail.com**
+📫 How to reach me **kumarn74858@gmail.com**<br>
 ⚡ Fun fact I am introvert
 
 
