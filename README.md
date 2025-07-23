@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Neeraj Kumar</h1>
-# 💫 About Me:
-🔭 I’m currently working on My first Portfolio<br>🌱 I’m currently learning React and Nextjs<br>💬 Ask me about my university<br>⚡ Fun fact I am introvert
+ Welcome to my Github Landing page <br>
+🔭 I’m currently working on My first Portfolio<br>
+🌱 I’m currently learning React and Nextjs<br>
+💬 Ask me about my university<br>
+⚡ Fun fact I am introvert
 
 
 ## 🌐 Socials:
