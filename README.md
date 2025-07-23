@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neeraj Kumar</h1>
 
- <h2>Welcome to my Github Landing page. I'm a Full Stack web developer  with a focus on JavaScript, React, and UI/UX design.  </h2> <br><br>
+ <h3>Welcome to my Github Landing page. I'm a Full Stack web developer  with a focus on JavaScript, React, and UI/UX design.  </h3> <br>
 🔭 I’m currently working on My first Portfolio<br>
 🌱 I’m currently learning React and Nextjs<br>
 💬 Ask me about my university<br>
