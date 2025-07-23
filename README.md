@@ -10,6 +10,8 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neeraj-kumar1001) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/Neerajaf)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NeerajKumar1001&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=NeerajKumar1001&theme=dark&hide_border=false)<br/>
