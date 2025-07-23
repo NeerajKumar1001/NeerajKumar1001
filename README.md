@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Neeraj Kumar</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neerajkumar1001" alt="neerajkumar1001" /></a> </p>
-
 - 🔭 I’m currently working on **My Portfolio :)**
 
 - 🌱 I’m currently learning **React,Nextjs**
